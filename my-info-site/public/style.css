@@ -1,0 +1,19 @@
+/* Style for the navigation */
+nav {
+    text-align: center; /* Center the navigation links */
+    font-size: 1.5em; /* Increase font size */
+}
+
+/* Style for h1 and h2 */
+h1, h2 {
+    text-align: center; /* Center the headings */
+}
+
+h2 {
+    color: #1db448; /* Make h2 text red */
+}
+
+/* Style for paragraphs */
+p {
+    text-align: center; /* Center the paragraphs */
+}
